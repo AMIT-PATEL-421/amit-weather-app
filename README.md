@@ -1,2 +1,2 @@
-Wbsite link :- https://amit-patel-421.github.io/amit-weather-app/
+Wbsite link :- https://know-weather-by-amit.netlify.app/
 # amit-weather-app
