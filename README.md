@@ -42,7 +42,8 @@ To run the Weather App locally, follow these steps:
 - Weather data provided by [Weather API](https://openweathermap.org/api).
 
 ## Contact
-For any questions or feedback, please contact [ Amit Patel](amitpatel04aug2002@gmail.com).
+For any questions or feedback, please contact [Amit Patel](mailto:amitpatel04aug2002@gmail.com).
+
 
 
    
