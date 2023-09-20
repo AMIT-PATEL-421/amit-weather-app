@@ -1,7 +1,8 @@
 Wbsite link :- https://know-weather-by-amit.netlify.app/
 # amit-weather-app
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](weather.png)
+
 
 ## Description
 The Weather App is a web-based application that provides real-time weather information for any location. It fetches weather data from a weather API and displays key information such as temperature, humidity, wind speed, and cloud cover. The app offers two main features: the ability to search for weather information in any city and the option to display the user's local weather based on their device's location.
