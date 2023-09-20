@@ -16,4 +16,31 @@ The Weather App is a web-based application that provides real-time weather infor
 To run the Weather App locally, follow these steps:
 
 1. Clone the repository:https://github.com/AMIT-PATEL-421/amit-weather-app
+2. Navigate to the project directory: cv amit-weather-app
+3. 
+3. Open the `index.html` file in a web browser or use a development server if preferred.
+
+## Usage
+1. **Search for Weather by City:**
+- Enter the name of a city in the search bar.
+- Click the "Search" button to view the current weather conditions for that city.
+
+2. **Get Local Weather:**
+- Click the "Get Local Weather" button to request permission to access your device's location.
+- Once permission is granted, the app will display the current weather for your location.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- [Weather API](https://example.com/weather-api)
+
+
+## Acknowledgments
+- Weather data provided by [Weather API](https://example.com/weather-api).
+
+## Contact
+For any questions or feedback, please contact [ Amit Patel](amitpatel04aug2002@gmail.com).
+
+
    
