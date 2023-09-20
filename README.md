@@ -1,7 +1,7 @@
 Wbsite link :- https://know-weather-by-amit.netlify.app/
 # amit-weather-app
 
-![Weather App Screenshot](weather.png)
+![Weather App Screenshot](assets/weather.png)
 
 
 ## Description
